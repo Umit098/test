@@ -1,7 +1,7 @@
 [user]
  email=akemiu098@gmail.com
  user=umit
-
+Commit test
 Uuuu
 Aidariya.
 Add line
